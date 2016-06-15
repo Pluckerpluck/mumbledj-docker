@@ -1,0 +1,5 @@
+echo "Ensuring youtube-dl is up-to-date..."
+
+pip install --upgrade youtube_dl
+
+/bin/sh
